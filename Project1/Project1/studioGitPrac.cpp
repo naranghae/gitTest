@@ -12,6 +12,10 @@ int	main() {
 	printf("어떻게 하지");
 	printf("develop");
 	printf("어쩔티비저쩔티비");
+	printf("nice");
+
+	printf("굳굳");
+
 	printf("이제 다했다!");
 	return 0;
 }
