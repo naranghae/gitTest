@@ -21,5 +21,7 @@ int	main() {
 	printf("Test일단 종료");
 	printf("새로운 issue/2번!");
 	printf("rebase를 해보자");
+	printf("rebase 연습");
+	printf("또다른 rebase");
 	return 0;
 }
