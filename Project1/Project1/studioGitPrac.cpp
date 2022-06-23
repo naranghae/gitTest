@@ -20,5 +20,6 @@ int	main() {
 	printf("아직안끝남");
 	printf("Test일단 종료");
 	printf("새로운 issue/2번!");
+	printf("rebase 연습");
 	return 0;
 }
