@@ -9,5 +9,6 @@ int	main() {
 	printf("3번째 branch입니다.");
 	printf("2번 커밋");
 	printf("지정된 push");
+	printf("develop");
 	return 0;
 }
