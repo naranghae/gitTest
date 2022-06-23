@@ -11,6 +11,10 @@ int	main() {
 	printf("지정된 push");
 	printf("어떻게 하지");
 	printf("develop");
+	printf("어쩔티비저쩔티비");
+	printf("nice");
+
+	printf("굳굳");
 
 	printf("이제 다했다!");
 	printf("아직안끝남");
