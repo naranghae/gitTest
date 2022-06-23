@@ -14,5 +14,7 @@ int	main() {
 	printf("nice");
 
 	printf("±ª±ª");
+
+	printf("¿Ã¡¶ ¥Ÿ«ﬂ¥Ÿ!");
 	return 0;
 }
