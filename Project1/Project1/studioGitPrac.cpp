@@ -13,5 +13,6 @@ int	main() {
 	printf("develop");
 
 	printf("이제 다했다!");
+	printf("아직안끝남");
 	return 0;
 }
