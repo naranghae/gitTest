@@ -17,5 +17,6 @@ int	main() {
 	printf("굳굳");
 
 	printf("이제 다했다!");
+	printf("Test일단 종료");
 	return 0;
 }
