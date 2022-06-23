@@ -19,5 +19,6 @@ int	main() {
 	printf("이제 다했다!");
 	printf("아직안끝남");
 	printf("Test일단 종료");
+	printf("새로운 issue/2번!");
 	return 0;
 }
