@@ -10,5 +10,6 @@ int	main() {
 	printf("2번 커밋");
 	printf("지정된 push");
 	printf("어떻게 하지");
+	printf("develop");
 	return 0;
 }
