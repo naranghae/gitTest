@@ -11,5 +11,8 @@ int	main() {
 	printf("지정된 push");
 	printf("어떻게 하지");
 	printf("develop");
+	printf("nice");
+
+	printf("굳굳");
 	return 0;
 }
