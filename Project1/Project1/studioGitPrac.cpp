@@ -8,5 +8,6 @@ int	main() {
 	printf("retry");
 	printf("3번째 branch입니다.");
 	printf("2번 커밋");
+	printf("지정된 push");
 	return 0;
 }
