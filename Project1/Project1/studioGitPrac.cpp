@@ -24,5 +24,6 @@ int	main() {
 	printf("HIHIHIHI");
 	printf("HOHOHO");
 	printf("가나다");
+	printf("라마바");
 	return 0;
 }
