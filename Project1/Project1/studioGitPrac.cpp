@@ -22,5 +22,6 @@ int	main() {
 	printf("새로운 issue/2번!");
 	printf("진짜 리베이스가 뭔데!");
 	printf("HIHIHIHI");
+	printf("HOHOHO");
 	return 0;
 }
