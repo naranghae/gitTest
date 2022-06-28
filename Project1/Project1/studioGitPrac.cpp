@@ -23,5 +23,6 @@ int	main() {
 	printf("진짜 리베이스가 뭔데!");
 	printf("HIHIHIHI");
 	printf("HOHOHO");
+	printf("가나다");
 	return 0;
 }
