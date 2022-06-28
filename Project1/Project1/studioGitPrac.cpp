@@ -21,5 +21,6 @@ int	main() {
 	printf("Test일단 종료");
 	printf("새로운 issue/2번!");
 	printf("진짜 리베이스가 뭔데!");
+	printf("HIHIHIHI");
 	return 0;
 }
